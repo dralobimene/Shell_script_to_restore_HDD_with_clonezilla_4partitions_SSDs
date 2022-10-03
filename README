@@ -1,0 +1,3 @@
+shell script to restore from external SSD 4 partitions to internal SSD 4 partitions.
+WARNING: never tested, use at your own risks
+read https://github.com/dralobimene/shell_script_to_restore_from_External_HDD_to_Internal_HDD
